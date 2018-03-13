@@ -52,3 +52,4 @@ C:\Users\v-kedigg\source\repos\BotInADay\Lab3.0_LUIS\bin\zh-hans\Microsoft.Bot.B
 C:\Users\v-kedigg\source\repos\BotInADay\Lab3.0_LUIS\obj\Debug\Bot Application.dll
 C:\Users\v-kedigg\source\repos\BotInADay\Lab3.0_LUIS\obj\Debug\Bot Application.pdb
 C:\Users\v-kedigg\source\repos\BotInADay\Lab3.0_LUIS\obj\Debug\Lab3.0_LUIS.csprojResolveAssemblyReference.cache
+C:\Users\v-kedigg\source\repos\BotInADay\Lab3.0_LUIS\bin\AdaptiveCards.dll

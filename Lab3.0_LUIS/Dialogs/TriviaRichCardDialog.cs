@@ -149,6 +149,7 @@ namespace BotInADay.Lab3_LLUIS.Dialogs
 
             var actions = new List<CardAction>();
             int choiceIndex = 0;
+
             foreach (string item in question.Choices)
             {
                 actions.Add(new CardAction

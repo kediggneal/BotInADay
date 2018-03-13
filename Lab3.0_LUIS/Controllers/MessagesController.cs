@@ -1,8 +1,11 @@
-﻿using System.Net;
+﻿using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
+using Autofac;
 using Microsoft.Bot.Builder.Dialogs;
+using Microsoft.Bot.Builder.Dialogs.Internals;
 using Microsoft.Bot.Connector;
 
 namespace BotInADay.Lab3_LLUIS
@@ -22,13 +25,13 @@ namespace BotInADay.Lab3_LLUIS
             }
             else
             {
-                HandleSystemMessage(activity);
+                await HandleSystemMessage(activity);
             }
             var response = Request.CreateResponse(HttpStatusCode.OK);
             return response;
         }
 
-        private Activity HandleSystemMessage(Activity message)
+        private async Task HandleSystemMessage(Activity message)
         {
             if (message.Type == ActivityTypes.DeleteUserData)
             {
@@ -37,9 +40,26 @@ namespace BotInADay.Lab3_LLUIS
             }
             else if (message.Type == ActivityTypes.ConversationUpdate)
             {
-                // Handle conversation state changes, like members being added and removed
-                // Use Activity.MembersAdded and Activity.MembersRemoved and Activity.Action for info
-                // Not available in all channels
+                IConversationUpdateActivity update = message;
+                using (var scope = DialogModule.BeginLifetimeScope(Conversation.Container, message))
+                {
+                    var client = scope.Resolve<IConnectorClient>();
+                    if (update.MembersAdded.Any())
+                    {
+                        var reply = message.CreateReply();
+                        foreach (var newMember in update.MembersAdded)
+                        {
+                            if (newMember.Name.ToLower() != "bot")
+                            {
+                                if (newMember.Id != message.Recipient.Id)
+                                {
+                                    reply.Text = $"Welcome, user! please type anything to begin.";
+                                }
+                                await client.Conversations.ReplyToActivityAsync(reply);
+                            }
+                        }
+                    }
+                }
             }
             else if (message.Type == ActivityTypes.ContactRelationUpdate)
             {
@@ -53,8 +73,6 @@ namespace BotInADay.Lab3_LLUIS
             else if (message.Type == ActivityTypes.Ping)
             {
             }
-
-            return null;
         }
     }
 }

@@ -7,6 +7,11 @@ using Microsoft.Bot.Builder.Luis.Models;
 using System.Configuration;
 using System.Collections.Generic;
 using System.Linq;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System.IO;
+using System.Web;
+using AdaptiveCards;
 
 namespace BotInADay.Lab3_LLUIS.Dialogs
 {
@@ -53,6 +58,7 @@ namespace BotInADay.Lab3_LLUIS.Dialogs
         public async Task HappyIntent(IDialogContext context, LuisResult result)
         {
             await context.PostAsync("I'm happy you're happy. I'm happy too. We're both happy.");
+
             context.Done("");
         }
 

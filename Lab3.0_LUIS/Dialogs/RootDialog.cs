@@ -9,11 +9,25 @@ namespace BotInADay.Lab3_LLUIS.Dialogs
     [Serializable]
     public class RootDialog : IDialog<object>
     {
+        private string _name;
         public Task StartAsync(IDialogContext context)
         {
-            context.Wait(MessageReceivedAsync);
+            context.Wait(PromptName);
 
             return Task.CompletedTask;
+        }
+
+        private async Task PromptName(IDialogContext context, IAwaitable<object> result)
+        {
+            PromptDialog.Text(context, AfterName, "What is your name?", "Sorry, I didn't get that.", 3);
+        }
+
+        private async Task AfterName(IDialogContext context, IAwaitable<object> result)
+        {
+            string name = (string)await result;
+            _name = name;
+            await context.PostAsync($"Hi {name}!");
+            context.Wait(MessageReceivedAsync);
         }
 
         /// <summary>
