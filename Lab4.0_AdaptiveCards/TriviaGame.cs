@@ -17,7 +17,7 @@ namespace BotInADay.Lab4_AdaptiveCards
             new TriviaQuestion()
             {
                 index = 0,
-                answer = 3,
+                answer = 4,
                 Question = "How many pieces of contemporary art is in Microsoft's collection?",
                 Choices = new string[] { "0", "25", "500", "2000", "5000"}
             },
