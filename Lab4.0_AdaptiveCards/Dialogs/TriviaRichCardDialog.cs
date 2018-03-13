@@ -45,6 +45,8 @@ namespace BotInADay.Lab4_AdaptiveCards.Dialogs
             _game = new TriviaGame(name);
 
             await context.PostAsync($"Ready or not, {name}, Let's play!");
+            // post the question in separate message so that it doesn't get cut off
+            await context.PostAsync(_game.CurrentQuestion().Question);
             // most the question and choices as a hero card
             await context.PostAsync(MakeChoiceCard(context, _game.CurrentQuestion()));
             // wait for the answer
@@ -76,6 +78,8 @@ namespace BotInADay.Lab4_AdaptiveCards.Dialogs
                 TriviaQuestion nextQuestion = _game.MoveToNextQuestion();
                 if (nextQuestion != null)
                 {
+                    // post the question in separate message so that it doesn't get cut off
+                    await context.PostAsync(_game.CurrentQuestion().Question);
                     await context.PostAsync(MakeChoiceCard(context, nextQuestion));
                     context.Wait(MessageReceivedAsync);
                 }
@@ -164,7 +168,7 @@ namespace BotInADay.Lab4_AdaptiveCards.Dialogs
             activity.Attachments.Add(
                 new HeroCard
                 {
-                    Title = $"{question.index}. {question.Question}",
+                    Title = $"Choose one:",
                     Buttons = actions
                 }.ToAttachment()
             );
