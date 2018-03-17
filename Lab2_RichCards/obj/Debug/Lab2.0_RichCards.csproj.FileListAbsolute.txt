@@ -51,3 +51,58 @@ C:\Users\v-kedigg\source\repos\BotInADay\Lab2_RichCards\bin\zh-hans\Microsoft.Bo
 C:\Users\v-kedigg\source\repos\BotInADay\Lab2_RichCards\obj\Debug\Lab2.0_RichCards.csproj.CoreCompileInputs.cache
 C:\Users\v-kedigg\source\repos\BotInADay\Lab2_RichCards\obj\Debug\Bot Application.dll
 C:\Users\v-kedigg\source\repos\BotInADay\Lab2_RichCards\obj\Debug\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\obj\Debug\Lab2.0_RichCards.csprojResolveAssemblyReference.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\obj\Debug\Lab2.0_RichCards.csproj.CoreCompileInputs.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Bot Application.dll.config
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Chronic.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Builder.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Connector.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Newtonsoft.Json.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\QnAMakerDialog.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Net.Http.Formatting.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Web.Http.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Web.Http.WebHost.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Builder.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Bot.Connector.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\Newtonsoft.Json.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Net.Http.Formatting.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Web.Http.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\System.Web.Http.WebHost.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\obj\Debug\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\obj\Debug\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab2_RichCards\bin\AdaptiveCards.dll

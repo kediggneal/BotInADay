@@ -28,9 +28,9 @@ namespace BotInADay.Lab1_QnAMaker.Dialogs
             var activity = await result as Activity;
             try
             {
-                // try QnAMaker first with a tolerance of 40% match to try to catch a lot of different phrasings
+                // try QnAMaker first with a tolerance of 50% match to try to catch a lot of different phrasings
                 // the higher the tolerance the more closely the users text must match the questions in QnAMaker
-                await context.Forward(new QnADialog(40), AfterQnA, activity, CancellationToken.None);
+                await context.Forward(new QnADialog(50), AfterQnA, activity, CancellationToken.None);
             }
             catch (Exception e)
             {

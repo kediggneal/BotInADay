@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace Lab2_FormFlow
+namespace BotInADay.Lab_2_1
 {
     // form flow will automatically add spaces to camel cased enums when displaying to the user
     // the first value in the enum should always be the "unkown" value

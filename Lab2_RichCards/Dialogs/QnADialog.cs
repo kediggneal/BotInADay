@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace BotInADay.Lab2_RichCards.Dialogs
+namespace BotInADay.Lab2_0
 {
 
     /// <summary>

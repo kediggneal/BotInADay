@@ -1,0 +1,53 @@
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\obj\Debug\Lab1.0_Echo.csproj.CoreCompileInputs.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Bot Application.dll.config
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Chronic.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Builder.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Connector.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Newtonsoft.Json.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Net.Http.Formatting.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Web.Http.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Web.Http.WebHost.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Builder.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Bot.Connector.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\Newtonsoft.Json.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Net.Http.Formatting.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Web.Http.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\System.Web.Http.WebHost.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\obj\Debug\Lab1.0_Echo.csprojResolveAssemblyReference.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\obj\Debug\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\BotInADay\obj\Debug\Bot Application.pdb

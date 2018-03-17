@@ -133,6 +133,8 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\MessagesController.cs" />
+    <Compile Include="Dialogs\AskLuis.cs" />
+    <Compile Include="Dialogs\KnockKnockJokeDialog.cs" />
     <Compile Include="Dialogs\MyLuisDialog.cs" />
     <Compile Include="Dialogs\QnADialog.cs" />
     <Compile Include="Dialogs\RootDialog.cs" />
@@ -140,6 +142,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="KnockKnockJoke.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SurveyFormFlowModel.cs" />
     <Compile Include="TriviaGame.cs" />
@@ -149,6 +152,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="MyCard.json" />
+    <Content Include="AdaptiveCards\MyCard.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

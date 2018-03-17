@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace BotInADay.Lab2_FormFlow
+namespace BotInADay.Lab_2_1
 {
     [Serializable]
     public class TriviaGame
@@ -17,23 +17,23 @@ namespace BotInADay.Lab2_FormFlow
             new TriviaQuestion()
             {
                 index = 0,
-                answer = 2,
-                Question = "What is the worlds largest continent?",
-                Choices = new string[] { "Africa", "North America", "Asia", "South America", "Europe", "Australia", "Antartica"}
+                answer = 4,
+                Question = "How many pieces of contemporary art is in Microsoft's collection?",
+                Choices = new string[] { "0", "25", "500", "2000", "5000"}
             },
             new TriviaQuestion()
             {
                 index = 1,
-                answer = 4,
-                Question = "How many rings does Saturn have?",
-                Choices = new string[] {"5", "7", "2", "0", "9", "11"}
+                answer = 2,
+                Question = "In 2016, Microsoft made a major breakthrough, equaling that of humans, in what?",
+                Choices = new string[] {"Writing Song Lyrics", "Derby Car Racing", "Speech Recognition", "Predicting American Idol Winners"}
             },
             new TriviaQuestion()
             {
                 index = 2,
-                answer = 3,
-                Question = "Which is my favorite color?",
-                Choices = new string[] {"Red","Green","Yellow","Blue"}
+                answer = 0,
+                Question = "Approximately how much money does Microsoft spend on R&D?",
+                Choices = new string[] {"$11 billion","$1 million","$100K","None"}
             }
         };
 

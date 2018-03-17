@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace BotInADay.Lab2_RichCards
+namespace BotInADay.Lab2_0
 {
     public static class WebApiConfig
     {

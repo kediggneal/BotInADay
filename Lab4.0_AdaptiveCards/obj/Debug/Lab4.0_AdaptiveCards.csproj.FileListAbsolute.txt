@@ -53,3 +53,58 @@ C:\Users\v-kedigg\source\repos\BotInADay\Lab4.0_AdaptiveCards\bin\ru\Microsoft.B
 C:\Users\v-kedigg\source\repos\BotInADay\Lab4.0_AdaptiveCards\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 C:\Users\v-kedigg\source\repos\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Bot Application.dll
 C:\Users\v-kedigg\source\repos\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Lab4.0_AdaptiveCards.csproj.CoreCompileInputs.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Bot Application.dll.config
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Bot Application.pdb
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\AdaptiveCards.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Chronic.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Builder.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Connector.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Newtonsoft.Json.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\QnAMakerDialog.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Net.Http.Formatting.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Web.Http.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Web.Http.WebHost.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Builder.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Bot.Connector.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\Newtonsoft.Json.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Net.Http.Formatting.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Web.Http.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\System.Web.Http.WebHost.xml
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Lab4.0_AdaptiveCards.csprojResolveAssemblyReference.cache
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Bot Application.dll
+C:\Users\v-kedigg\Documents\GitHub\BotInADay\Lab4.0_AdaptiveCards\obj\Debug\Bot Application.pdb

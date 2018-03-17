@@ -9,7 +9,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace BotInADay.Lab3_LLUIS.Dialogs
+namespace BotInADay.Lab3_LLUIS
 {
 
     /// <summary>

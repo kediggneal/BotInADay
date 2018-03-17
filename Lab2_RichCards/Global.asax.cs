@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
 
-namespace BotInADay.Lab2_RichCards
+namespace BotInADay.Lab2_0
 {
     public class WebApiApplication : System.Web.HttpApplication
     {

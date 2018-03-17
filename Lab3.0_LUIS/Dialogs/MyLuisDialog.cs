@@ -13,7 +13,7 @@ using System.IO;
 using System.Web;
 using AdaptiveCards;
 
-namespace BotInADay.Lab3_LLUIS.Dialogs
+namespace BotInADay.Lab3_LLUIS
 {
     [Serializable]
     public class MyLuisDialog : LuisDialog<string> // explicitly state we will return a string using context.done(string)
